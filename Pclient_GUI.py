@@ -40,7 +40,7 @@ st.sidebar.text("+919958966311")
 
 
 # FastAPI endpoint
-API_URL = "https://chatbotapi-1-5nnb.onrender.com/chat"
+API_URL = "https://fastapi-demo-latest-xlo3.onrender.com/chat"
 
 # Unique session ID
 if "session_id" not in st.session_state:
